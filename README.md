@@ -1,2 +1,2 @@
-# Read
-Kissan Kart is an application for farmers and customers.
+# Kissan Kart
+It is an application for farmers and customers.
